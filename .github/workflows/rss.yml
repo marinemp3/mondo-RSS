@@ -1,0 +1,70 @@
+name: RSS Feed Generator
+
+# 権限設定（重要！）
+permissions:
+  contents: write  # リポジトリの内容を書き込む権限
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-rss:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: リポジトリのチェックアウト
+        uses: actions/checkout@v4
+        with:
+          # プッシュ用にトークンを設定
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Python のセットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Chromeのインストール
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+          google-chrome --version
+      
+      - name: ChromeDriverのインストール
+        run: |
+          CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+\.\d+')
+          CHROME_MAJOR=$(echo $CHROME_VERSION | cut -d. -f1)
+          wget -q "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/${CHROME_VERSION}/linux64/chromedriver-linux64.zip"
+          unzip chromedriver-linux64.zip
+          sudo mv chromedriver-linux64/chromedriver /usr/local/bin/
+          sudo chmod +x /usr/local/bin/chromedriver
+          chromedriver --version
+      
+      - name: 依存パッケージのインストール
+        run: |
+          pip install requests beautifulsoup4 feedgen selenium webdriver-manager
+      
+      - name: RSS フィード生成
+        run: |
+          python generate_rss.py
+      
+      - name: 生成されたRSSファイルを確認
+        run: |
+          ls -la
+          if [ -f rss.xml ]; then
+            echo "✅ RSSファイルが生成されました"
+            head -n 20 rss.xml
+          else
+            echo "⚠ RSSファイルが生成されていません"
+          fi
+      
+      - name: 変更をコミット＆プッシュ
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add rss.xml
+          git diff --staged --quiet || git commit -m "🔄 RSSフィードを自動更新 ($(date '+%Y-%m-%d %H:%M:%S'))"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
