@@ -8,42 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 07 Sep 2026 18:05:31 +0900</lastBuildDate>
-    <item>
-      <title>政策解读《绵阳市职工基本医疗保险实施细则》《绵阳市城乡居民基本医疗保险实施细则》</title>
-      <link>https://m12333.cn/qa/srsyc.html</link>
-      <description>政策解读《绵阳市职工基本医疗保险实施细则》《绵阳市城乡居民基本医疗保险实施细则》 - https://m12333.cn/qa/srsyc.html</description>
-      <guid isPermaLink="false">e38e95b6ba5bae70daecca0fd16b2773</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>北京市 一图读懂医保个人账户密码修改教程</title>
-      <link>https://m12333.cn/qa/srsyd.html</link>
-      <description>北京市 一图读懂医保个人账户密码修改教程 - https://m12333.cn/qa/srsyd.html</description>
-      <guid isPermaLink="false">3d277701f05495ff74798bb8f98418bd</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>海南省 在外省生娃要如何报销？</title>
-      <link>https://m12333.cn/qa/srskc.html</link>
-      <description>海南省 在外省生娃要如何报销？ - https://m12333.cn/qa/srskc.html</description>
-      <guid isPermaLink="false">f3e99b43afd2dfa8768d9c2b4ea84898</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>湘潭市 事关养老金领取！灵活就业人员缴费基数调整及操作指引（2026年）</title>
-      <link>https://m12333.cn/qa/srsau.html</link>
-      <description>湘潭市 事关养老金领取！灵活就业人员缴费基数调整及操作指引（2026年） - https://m12333.cn/qa/srsau.html</description>
-      <guid isPermaLink="false">019df2cb73d2a16894aa23172f7a43a5</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>安徽省2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准）</title>
-      <link>https://m12333.cn/qa/srswb.html</link>
-      <description>安徽省2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准） - https://m12333.cn/qa/srswb.html</description>
-      <guid isPermaLink="false">8be1164a46c7d92babd0376970233308</guid>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Sep 2026 18:39:25 +0900</lastBuildDate>
     <item>
       <title>吉林省2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准）</title>
       <link>https://m12333.cn/qa/srsyr.html</link>
@@ -77,6 +42,20 @@
       <link>https://m12333.cn/qa/srsks.html</link>
       <description>青岛市 从市南区搬家到了平度，门诊慢特病定点医疗机构能不能变更？怎么办理？ - https://m12333.cn/qa/srsks.html</description>
       <guid isPermaLink="false">87a079d6cab790ac8ddd3d2094bbcdad</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>海南省 医保钱包怎么用？能不能在外省花？</title>
+      <link>https://m12333.cn/qa/srskw.html</link>
+      <description>海南省 医保钱包怎么用？能不能在外省花？ - https://m12333.cn/qa/srskw.html</description>
+      <guid isPermaLink="false">9a0124e204ecaf81ca833aac8223ccd3</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>北京市 激活医保码后，社保卡还能用吗？换手机号了怎么办？</title>
+      <link>https://m12333.cn/qa/srski.html</link>
+      <description>北京市 激活医保码后，社保卡还能用吗？换手机号了怎么办？ - https://m12333.cn/qa/srski.html</description>
+      <guid isPermaLink="false">83761cc697c026ec0734b3217561f599</guid>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -129,10 +108,45 @@
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>武汉市内多个医保个人账户如何合并？</title>
+      <link>https://m12333.cn/qa/srsab.html</link>
+      <description>武汉市内多个医保个人账户如何合并？ - https://m12333.cn/qa/srsab.html</description>
+      <guid isPermaLink="false">b6ea0ac49233e4265e77fecd563ef771</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>四川省2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准）</title>
       <link>https://m12333.cn/qa/srsae.html</link>
       <description>四川省2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准） - https://m12333.cn/qa/srsae.html</description>
       <guid isPermaLink="false">fc2349301ece2476fe1d4ab3fb652484</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>山西省 关于医疗服务项目价格政策解读的通告</title>
+      <link>https://m12333.cn/qa/srsbi.html</link>
+      <description>山西省 关于医疗服务项目价格政策解读的通告 - https://m12333.cn/qa/srsbi.html</description>
+      <guid isPermaLink="false">4004b37128fad6e8b756791a4dde595e</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>盘锦市创业担保贷款政策</title>
+      <link>https://m12333.cn/qa/srsby.html</link>
+      <description>盘锦市创业担保贷款政策 - https://m12333.cn/qa/srsby.html</description>
+      <guid isPermaLink="false">3e1479ac6448e9a830997c51f1896a8c</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>盘锦市 稳岗扩岗专项贷款政策：适用对象、认定标准、贷款要求、联系电话</title>
+      <link>https://m12333.cn/qa/srsbk.html</link>
+      <description>盘锦市 稳岗扩岗专项贷款政策：适用对象、认定标准、贷款要求、联系电话 - https://m12333.cn/qa/srsbk.html</description>
+      <guid isPermaLink="false">e1e79b3f98c20884250292a60eabab90</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>重庆市 政策解读《关于完善生育医疗待遇有关事项的通知》</title>
+      <link>https://m12333.cn/qa/srsba.html</link>
+      <description>重庆市 政策解读《关于完善生育医疗待遇有关事项的通知》 - https://m12333.cn/qa/srsba.html</description>
+      <guid isPermaLink="false">467eac1202bf4f850e9b089525914392</guid>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
