@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 07 Sep 2026 22:38:45 +0900</lastBuildDate>
-    <item>
-      <title>青岛市 门诊慢特病就医指南</title>
-      <link>https://m12333.cn/qa/srskp.html</link>
-      <description>青岛市 门诊慢特病就医指南 - https://m12333.cn/qa/srskp.html</description>
-      <guid isPermaLink="false">ccaf0013c71c5e17de54970431a32ffc</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>青岛市 从市南区搬家到了平度，门诊慢特病定点医疗机构能不能变更？怎么办理？</title>
-      <link>https://m12333.cn/qa/srsks.html</link>
-      <description>青岛市 从市南区搬家到了平度，门诊慢特病定点医疗机构能不能变更？怎么办理？ - https://m12333.cn/qa/srsks.html</description>
-      <guid isPermaLink="false">87a079d6cab790ac8ddd3d2094bbcdad</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Sep 2026 23:05:17 +0900</lastBuildDate>
     <item>
       <title>北京医保线上购药，一键结算送药上门</title>
       <link>https://m12333.cn/qa/srskr.html</link>
@@ -133,6 +119,20 @@
       <link>https://m12333.cn/qa/srsci.html</link>
       <description>政策解读《黑龙江省职业技能培训服务补贴指导标准》 - https://m12333.cn/qa/srsci.html</description>
       <guid isPermaLink="false">296cf37f40e09c4a64b5aa35e55e0af3</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>宁夏自治区 个人养老金政策宣传折页</title>
+      <link>https://m12333.cn/qa/srsdu.html</link>
+      <description>宁夏自治区 个人养老金政策宣传折页 - https://m12333.cn/qa/srsdu.html</description>
+      <guid isPermaLink="false">ed9b64b9ac0b57e7dc6031c7d9522141</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>湖州重点群体社保补贴，个人就能申领！手把手教你操作！</title>
+      <link>https://m12333.cn/qa/srsdm.html</link>
+      <description>湖州重点群体社保补贴，个人就能申领！手把手教你操作！ - https://m12333.cn/qa/srsdm.html</description>
+      <guid isPermaLink="false">42e699e8186d079ae2df24a1d4c4f619</guid>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
