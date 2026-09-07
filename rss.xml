@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 07 Sep 2026 17:40:08 +0900</lastBuildDate>
-    <item>
-      <title>深圳市 如何申请补（换）发卫生专业技术资格证书？</title>
-      <link>https://m12333.cn/qa/srsyi.html</link>
-      <description>深圳市 如何申请补（换）发卫生专业技术资格证书？ - https://m12333.cn/qa/srsyi.html</description>
-      <guid isPermaLink="false">ac254c0f2b25097cb16a1ae11ea9d8bc</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Sep 2026 18:05:31 +0900</lastBuildDate>
     <item>
       <title>政策解读《绵阳市职工基本医疗保险实施细则》《绵阳市城乡居民基本医疗保险实施细则》</title>
       <link>https://m12333.cn/qa/srsyc.html</link>
@@ -133,6 +126,13 @@
       <link>https://m12333.cn/qa/srsay.html</link>
       <description>宁夏自治区 如何选择社保缴费档次 - https://m12333.cn/qa/srsay.html</description>
       <guid isPermaLink="false">b896f139df843b06a0d1725f7c7d4391</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>四川省2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准）</title>
+      <link>https://m12333.cn/qa/srsae.html</link>
+      <description>四川省2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准） - https://m12333.cn/qa/srsae.html</description>
+      <guid isPermaLink="false">fc2349301ece2476fe1d4ab3fb652484</guid>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
