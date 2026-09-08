@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:05:00 +0900</lastBuildDate>
-    <item>
-      <title>四川省2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准）</title>
-      <link>https://m12333.cn/qa/srsae.html</link>
-      <description>四川省2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准） - https://m12333.cn/qa/srsae.html</description>
-      <guid isPermaLink="false">fc2349301ece2476fe1d4ab3fb652484</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>山西省 关于医疗服务项目价格政策解读的通告</title>
-      <link>https://m12333.cn/qa/srsbi.html</link>
-      <description>山西省 关于医疗服务项目价格政策解读的通告 - https://m12333.cn/qa/srsbi.html</description>
-      <guid isPermaLink="false">4004b37128fad6e8b756791a4dde595e</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Sep 2026 11:38:31 +0900</lastBuildDate>
     <item>
       <title>盘锦市创业担保贷款政策</title>
       <link>https://m12333.cn/qa/srsby.html</link>
@@ -134,6 +120,20 @@
       <description>潮州个体工商户2026年度“名特优新”个体工商户申报开始了！ - https://m12333.cn/qa/srsei.html</description>
       <guid isPermaLink="false">82d1ded6c696d72be339c520f71ffeab</guid>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>宜昌市 异地安置退休人员备案热点问答</title>
+      <link>https://m12333.cn/qa/srsfp.html</link>
+      <description>宜昌市 异地安置退休人员备案热点问答 - https://m12333.cn/qa/srsfp.html</description>
+      <guid isPermaLink="false">d4608329ff2c7b35f5ae2ea2fa5bbc9e</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>宜昌市 常驻异地工作人员备案热点问答</title>
+      <link>https://m12333.cn/qa/srsfs.html</link>
+      <description>宜昌市 常驻异地工作人员备案热点问答 - https://m12333.cn/qa/srsfs.html</description>
+      <guid isPermaLink="false">0112f1b205421493f7e0b4245c1bac76</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
