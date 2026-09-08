@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 19:38:23 +0900</lastBuildDate>
-    <item>
-      <title>宜昌市 常驻异地工作人员备案热点问答</title>
-      <link>https://m12333.cn/qa/srsfs.html</link>
-      <description>宜昌市 常驻异地工作人员备案热点问答 - https://m12333.cn/qa/srsfs.html</description>
-      <guid isPermaLink="false">0112f1b205421493f7e0b4245c1bac76</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Sep 2026 20:05:28 +0900</lastBuildDate>
     <item>
       <title>湖南省 城乡居民养老保险个人资助线上办理指南来啦～</title>
       <link>https://m12333.cn/qa/srsfa.html</link>
@@ -126,6 +119,27 @@
       <link>https://m12333.cn/qa/srwps.html</link>
       <description>长沙市 2026年度失业保险稳岗返还工作启动！符合条件企业记得确认 - https://m12333.cn/qa/srwps.html</description>
       <guid isPermaLink="false">8bbff4b37f6258043b792d7eb62314b3</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日喀则市长期护理保险参保缴费工作启动的温馨提示</title>
+      <link>https://m12333.cn/qa/srwpa.html</link>
+      <description>日喀则市长期护理保险参保缴费工作启动的温馨提示 - https://m12333.cn/qa/srwpa.html</description>
+      <guid isPermaLink="false">b431b691633020dbfa11cd1e29bf31a6</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>佛山市 工伤异地就医的交通、食宿费标准如何规定？</title>
+      <link>https://m12333.cn/qa/srwpd.html</link>
+      <description>佛山市 工伤异地就医的交通、食宿费标准如何规定？ - https://m12333.cn/qa/srwpd.html</description>
+      <guid isPermaLink="false">39115b3be0d25d9eb75e529ae8d53a0f</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>云南省 政策解读《关于规范耳鼻喉科类等医疗服务价格项目及医保支付类别的通知》</title>
+      <link>https://m12333.cn/qa/srwpe.html</link>
+      <description>云南省 政策解读《关于规范耳鼻喉科类等医疗服务价格项目及医保支付类别的通知》 - https://m12333.cn/qa/srwpe.html</description>
+      <guid isPermaLink="false">79de16f0fb4e242d1a8de495d147b48c</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
