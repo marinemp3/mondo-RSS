@@ -3,6 +3,7 @@ name: RSS Feed Generator
 # 権限設定（重要！）
 permissions:
   contents: write  # リポジトリの内容を書き込む権限
+  actions: write   # keepalive アクションが GitHub API を利用するために必要
 
 on:
   schedule:
@@ -19,6 +20,8 @@ jobs:
         with:
           # プッシュ用にトークンを設定
           token: ${{ secrets.GITHUB_TOKEN }}
+          # rebase を安全に行うため全履歴を取得
+          fetch-depth: 0
       
       - name: Python のセットアップ
         uses: actions/setup-python@v5
@@ -65,6 +68,16 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add rss.xml
           git diff --staged --quiet || git commit -m "🔄 RSSフィードを自動更新 ($(date '+%Y-%m-%d %H:%M:%S'))"
+          # プッシュ前にリモートの変更を取り込む（競合回避）
+          git pull --rebase origin ${{ github.ref_name }}
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      # 60日間の無効化対策（keepalive）
+      - name: Keepalive（ワークフロー無効化防止）
+        if: always()
+        uses: entepotenz/keep-github-actions-alive-min-dependencies@v1
+        with:
+          COMMIT_MESSAGE: "Keepalive: ワークフロー無効化防止"
+          TIME_ELAPSED_THRESHOLD_IN_DAYS: 50
