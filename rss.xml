@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 16:07:51 +0900</lastBuildDate>
-    <item>
-      <title>政策解读《鄂尔多斯市事业单位专业技术三级岗位管理办法》</title>
-      <link>https://m12333.cn/qa/srwri.html</link>
-      <description>政策解读《鄂尔多斯市事业单位专业技术三级岗位管理办法》 - https://m12333.cn/qa/srwri.html</description>
-      <guid isPermaLink="false">8583bd87ad694824dbdf0280f7a789ad</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>钦州市 图文解读《关于进一步调整优化住房公积金使用政策的通知》（2026年）</title>
-      <link>https://m12333.cn/qa/srwzi.html</link>
-      <description>钦州市 图文解读《关于进一步调整优化住房公积金使用政策的通知》（2026年） - https://m12333.cn/qa/srwzi.html</description>
-      <guid isPermaLink="false">550f52c98a8df9f76cdff140d5427f44</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Sep 2026 16:39:22 +0900</lastBuildDate>
     <item>
       <title>钦州市 政策解读《关于进一步调整优化住房公积金使用政策的通知》（2026年）</title>
       <link>https://m12333.cn/qa/srwzr.html</link>
@@ -56,6 +42,13 @@
       <link>https://m12333.cn/qa/srwcu.html</link>
       <description>城乡居民社保费缴费记录查询-我的宁夏 - https://m12333.cn/qa/srwcu.html</description>
       <guid isPermaLink="false">0f276dd9067132432fcf96820b382297</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>北京市 能把医保码截图后使用吗？如何查看支持医保码的定点医疗机构？</title>
+      <link>https://m12333.cn/qa/srwck.html</link>
+      <description>北京市 能把医保码截图后使用吗？如何查看支持医保码的定点医疗机构？ - https://m12333.cn/qa/srwck.html</description>
+      <guid isPermaLink="false">3226edf5a165bd11b6a513c3a2ab3500</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -140,6 +133,13 @@
       <link>https://m12333.cn/qa/srwbd.html</link>
       <description>政策解读《北京市国际职业资格认可目录（2026年版）》 - https://m12333.cn/qa/srwbd.html</description>
       <guid isPermaLink="false">e634bc203c56d124bfc264d151014821</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>申请长期护理保险评估先自评！这样用《失能等级自评表》</title>
+      <link>https://m12333.cn/qa/srwdu.html</link>
+      <description>申请长期护理保险评估先自评！这样用《失能等级自评表》 - https://m12333.cn/qa/srwdu.html</description>
+      <guid isPermaLink="false">60022ceb367a4d21e00199d144dbeeb8</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
