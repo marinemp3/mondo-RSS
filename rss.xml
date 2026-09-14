@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 19:07:19 +0900</lastBuildDate>
-    <item>
-      <title>政策解读《北京市国际职业资格认可目录（2026年版）》</title>
-      <link>https://m12333.cn/qa/srwbd.html</link>
-      <description>政策解读《北京市国际职业资格认可目录（2026年版）》 - https://m12333.cn/qa/srwbd.html</description>
-      <guid isPermaLink="false">e634bc203c56d124bfc264d151014821</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Sep 2026 19:39:06 +0900</lastBuildDate>
     <item>
       <title>申请长期护理保险评估先自评！这样用《失能等级自评表》</title>
       <link>https://m12333.cn/qa/srwdu.html</link>
@@ -147,6 +140,13 @@
       <link>https://m12333.cn/qa/sriss.html</link>
       <description>福建省企业薪酬调查信息（2025年） - https://m12333.cn/qa/sriss.html</description>
       <guid isPermaLink="false">84e5eb8445eb6293b1c9984aba7bedc7</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>金华市 浙里办租房提取线上操作指南</title>
+      <link>https://m12333.cn/qa/sriwp.html</link>
+      <description>金华市 浙里办租房提取线上操作指南 - https://m12333.cn/qa/sriwp.html</description>
+      <guid isPermaLink="false">907337cd29ae907b5a35af4fb72362e7</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
