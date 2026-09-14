@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 23:41:53 +0900</lastBuildDate>
-    <item>
-      <title>五家渠市 关于2026年医保缴费基数调整政策问答</title>
-      <link>https://m12333.cn/qa/srwdy.html</link>
-      <description>五家渠市 关于2026年医保缴费基数调整政策问答 - https://m12333.cn/qa/srwdy.html</description>
-      <guid isPermaLink="false">5aab607657f8c5b5cc220702cb515755</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>黄冈市 既有住宅加装电梯如何提取使用公积金</title>
-      <link>https://m12333.cn/qa/srwdk.html</link>
-      <description>黄冈市 既有住宅加装电梯如何提取使用公积金 - https://m12333.cn/qa/srwdk.html</description>
-      <guid isPermaLink="false">5cfa16fb3aa9ee417a445afa14524007</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>政策解读《关于印发修订后的〈上海市职工基本医疗保险综合减负实施办法〉的通知》</title>
-      <link>https://m12333.cn/qa/srwda.html</link>
-      <description>政策解读《关于印发修订后的〈上海市职工基本医疗保险综合减负实施办法〉的通知》 - https://m12333.cn/qa/srwda.html</description>
-      <guid isPermaLink="false">4b6ecbc0aeafd1f41a8b76c7221cf533</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Sep 2026 00:09:03 +0900</lastBuildDate>
     <item>
       <title>崇左市住房公积金离退休提取操作指南</title>
       <link>https://m12333.cn/qa/srwer.html</link>
@@ -147,6 +126,27 @@
       <link>https://m12333.cn/qa/sriwb.html</link>
       <description>苏州市 女参保人员生育待遇 - https://m12333.cn/qa/sriwb.html</description>
       <guid isPermaLink="false">3f33421731ab30b959ec8cc80d13d63a</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中山市 公积金年度调整9月30日截止，单位经办人抓紧办！（2026年）</title>
+      <link>https://m12333.cn/qa/sriwd.html</link>
+      <description>中山市 公积金年度调整9月30日截止，单位经办人抓紧办！（2026年） - https://m12333.cn/qa/sriwd.html</description>
+      <guid isPermaLink="false">ab7d877cc70b834810858bb467047f14</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>新乡市 关于单位依法缴存住房公积金的提示</title>
+      <link>https://m12333.cn/qa/sriwe.html</link>
+      <description>新乡市 关于单位依法缴存住房公积金的提示 - https://m12333.cn/qa/sriwe.html</description>
+      <guid isPermaLink="false">e77743230d8e9227c2aa11f93b81b148</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>苏州市 居民医保参保人员生育待遇</title>
+      <link>https://m12333.cn/qa/sriiu.html</link>
+      <description>苏州市 居民医保参保人员生育待遇 - https://m12333.cn/qa/sriiu.html</description>
+      <guid isPermaLink="false">009c96717fc40b2ae6f0ead8ab855eb8</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
