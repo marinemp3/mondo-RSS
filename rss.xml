@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 10:37:53 +0900</lastBuildDate>
-    <item>
-      <title>揭阳市 政策图解《关于贯彻落实〈广东省最低生活保障家庭经济状况核对和生活状况综合评估办法〉有关…</title>
-      <link>https://m12333.cn/qa/sriue.html</link>
-      <description>揭阳市 政策图解《关于贯彻落实〈广东省最低生活保障家庭经济状况核对和生活状况综合评估办法〉有关… - https://m12333.cn/qa/sriue.html</description>
-      <guid isPermaLink="false">77c6a46ac715f5388b63159fa2327475</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Sep 2026 11:07:14 +0900</lastBuildDate>
     <item>
       <title>揭阳市 政策解读《关于贯彻落实〈广东省最低生活保障家庭经济状况核对和生活状况综合评估办法〉有关…</title>
       <link>https://m12333.cn/qa/srimu.html</link>
@@ -148,6 +141,13 @@
       <description>上海市 城镇养老保险个人账户如何计算利息？ - https://m12333.cn/qa/sriui.html</description>
       <guid isPermaLink="false">c3e55cdef1caa3386f0ff5e4c8dbdd13</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>上海市 政策解读《关于本市职工医保个人账户历年结余资金支付非免疫规划疫苗费用有关事项的通知》</title>
+      <link>https://m12333.cn/qa/srimy.html</link>
+      <description>上海市 政策解读《关于本市职工医保个人账户历年结余资金支付非免疫规划疫苗费用有关事项的通知》 - https://m12333.cn/qa/srimy.html</description>
+      <guid isPermaLink="false">12d2cf3e74511c064d4b3478924d612b</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
