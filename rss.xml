@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 15 Sep 2026 13:07:33 +0900</lastBuildDate>
-    <item>
-      <title>襄阳市 经济补偿金常见问题解答</title>
-      <link>https://m12333.cn/qa/srwfw.html</link>
-      <description>襄阳市 经济补偿金常见问题解答 - https://m12333.cn/qa/srwfw.html</description>
-      <guid isPermaLink="false">e2a47c544b599c82c7c3bbd8216794c8</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>襄阳市 医疗期常见问题解答</title>
-      <link>https://m12333.cn/qa/srwfi.html</link>
-      <description>襄阳市 医疗期常见问题解答 - https://m12333.cn/qa/srwfi.html</description>
-      <guid isPermaLink="false">670e9efc134e757a2f7c7500e1e33e2e</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>广州市 《劳动用工规范化管理指南》下载二维码</title>
-      <link>https://m12333.cn/qa/srwfy.html</link>
-      <description>广州市 《劳动用工规范化管理指南》下载二维码 - https://m12333.cn/qa/srwfy.html</description>
-      <guid isPermaLink="false">510c11ecbc1eb004d4564de90792272f</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Sep 2026 13:40:45 +0900</lastBuildDate>
     <item>
       <title>威海市 职工养老保险个人账户：钱从哪来？怎么计息</title>
       <link>https://m12333.cn/qa/srwfk.html</link>
@@ -143,10 +122,31 @@
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>新疆扩大社保补贴范围，这类人群可申领，申领渠道</title>
+      <link>https://m12333.cn/qa/srizu.html</link>
+      <description>新疆扩大社保补贴范围，这类人群可申领，申领渠道 - https://m12333.cn/qa/srizu.html</description>
+      <guid isPermaLink="false">deaea59667c4e7a1b356f2c189eb2763</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>宣城市装修自住住房提取住房公积金政策解读</title>
       <link>https://m12333.cn/qa/srirz.html</link>
       <description>宣城市装修自住住房提取住房公积金政策解读 - https://m12333.cn/qa/srirz.html</description>
       <guid isPermaLink="false">51b24213c1ecf68823f6e892725d29ce</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>鄂尔多斯市 内蒙古自治区产科类医疗服务价格项目立项指南政策解读及映射关系表</title>
+      <link>https://m12333.cn/qa/srirc.html</link>
+      <description>鄂尔多斯市 内蒙古自治区产科类医疗服务价格项目立项指南政策解读及映射关系表 - https://m12333.cn/qa/srirc.html</description>
+      <guid isPermaLink="false">37eb06adfc1e5b501d551dc4277af92c</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>政策解读《关于试行高水平新技术新产品医疗服务价格项目预立项制度的通知》</title>
+      <link>https://m12333.cn/qa/srizw.html</link>
+      <description>政策解读《关于试行高水平新技术新产品医疗服务价格项目预立项制度的通知》 - https://m12333.cn/qa/srizw.html</description>
+      <guid isPermaLink="false">87375cb93b67bad75b5e1784e8f9d2a1</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
