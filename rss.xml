@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:07:53 +0900</lastBuildDate>
-    <item>
-      <title>苏州市 居民医保参保人员生育待遇</title>
-      <link>https://m12333.cn/qa/sriiu.html</link>
-      <description>苏州市 居民医保参保人员生育待遇 - https://m12333.cn/qa/sriiu.html</description>
-      <guid isPermaLink="false">009c96717fc40b2ae6f0ead8ab855eb8</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Sep 2026 22:39:53 +0900</lastBuildDate>
     <item>
       <title>陕西省 什么是医保“起付线”和“封顶线”？</title>
       <link>https://m12333.cn/qa/sriik.html</link>
@@ -147,6 +140,13 @@
       <link>https://m12333.cn/qa/srikm.html</link>
       <description>包头市 政策解读《关于开展2026业务年度职工基本医疗保险费缴费工资申报工作的通告》 - https://m12333.cn/qa/srikm.html</description>
       <guid isPermaLink="false">3e444db427bc62af40f44a420cb41de5</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>安徽省 政策解读《关于规范整合药学、病理、眼科、口腔类价格项目及修订口腔种植等医疗服务价格项目…</title>
+      <link>https://m12333.cn/qa/srikz.html</link>
+      <description>安徽省 政策解读《关于规范整合药学、病理、眼科、口腔类价格项目及修订口腔种植等医疗服务价格项目… - https://m12333.cn/qa/srikz.html</description>
+      <guid isPermaLink="false">814b1613216049edcad0ba4a522c6939</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
