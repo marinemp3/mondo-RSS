@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 22:39:20 +0900</lastBuildDate>
-    <item>
-      <title>江西省 政策解读《关于医保支持基层医疗卫生服务发展的通知》</title>
-      <link>https://m12333.cn/qa/sribe.html</link>
-      <description>江西省 政策解读《关于医保支持基层医疗卫生服务发展的通知》 - https://m12333.cn/qa/sribe.html</description>
-      <guid isPermaLink="false">ee223fc3f37b4eab1841c064af1dd38f</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 23:07:54 +0900</lastBuildDate>
     <item>
       <title>北京市 如何申领一次性求职补贴？</title>
       <link>https://m12333.cn/qa/sricp.html</link>
@@ -133,6 +126,20 @@
       <link>https://m12333.cn/qa/srifa.html</link>
       <description>宁夏自治区 关于2026年度社会保险缴费基数的政策解读 - https://m12333.cn/qa/srifa.html</description>
       <guid isPermaLink="false">63084c2b481af3c9f5236ba24a7be3a0</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>淄博市 2027届毕业生，一次性求职补贴申领开始啦！</title>
+      <link>https://m12333.cn/qa/srifb.html</link>
+      <description>淄博市 2027届毕业生，一次性求职补贴申领开始啦！ - https://m12333.cn/qa/srifb.html</description>
+      <guid isPermaLink="false">01fc543d2788283b25450e70f7907dfc</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>青海省2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准）</title>
+      <link>https://m12333.cn/qa/srife.html</link>
+      <description>青海省2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准） - https://m12333.cn/qa/srife.html</description>
+      <guid isPermaLink="false">173efed2770e95e1858612e431691664</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
