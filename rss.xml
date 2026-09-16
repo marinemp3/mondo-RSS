@@ -8,26 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 22:08:36 +0900</lastBuildDate>
-    <item>
-      <title>哪些职称可以以考代评？</title>
-      <link>https://m12333.cn/qa/sribd.html</link>
-      <description>哪些职称可以以考代评？ - https://m12333.cn/qa/sribd.html</description>
-      <guid isPermaLink="false">3f36e5300bdcd302836b55ed95c421f1</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 22:39:20 +0900</lastBuildDate>
     <item>
       <title>江西省 政策解读《关于医保支持基层医疗卫生服务发展的通知》</title>
       <link>https://m12333.cn/qa/sribe.html</link>
       <description>江西省 政策解读《关于医保支持基层医疗卫生服务发展的通知》 - https://m12333.cn/qa/sribe.html</description>
       <guid isPermaLink="false">ee223fc3f37b4eab1841c064af1dd38f</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>青岛市 职工普通门诊看病就医用药如何报销？</title>
-      <link>https://m12333.cn/qa/sricm.html</link>
-      <description>青岛市 职工普通门诊看病就医用药如何报销？ - https://m12333.cn/qa/sricm.html</description>
-      <guid isPermaLink="false">52bde77a65ee961b0dc1cf95abc06bae</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -70,13 +56,6 @@
       <link>https://m12333.cn/qa/sridm.html</link>
       <description>承德市 灵活就业参保“一件事”服务指南 - https://m12333.cn/qa/sridm.html</description>
       <guid isPermaLink="false">4d3ca951456647f5429dd8fe15e81ba9</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>天津市社会保险基金管理中心关于优化养老资格认证主动告知服务的提示</title>
-      <link>https://m12333.cn/qa/sridp.html</link>
-      <description>天津市社会保险基金管理中心关于优化养老资格认证主动告知服务的提示 - https://m12333.cn/qa/sridp.html</description>
-      <guid isPermaLink="false">49fb0028a6fa7753b9b03f0d0877fb2a</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -147,6 +126,13 @@
       <link>https://m12333.cn/qa/srifi.html</link>
       <description>鹰潭市 企业职工基本养老金申领办事指南 - https://m12333.cn/qa/srifi.html</description>
       <guid isPermaLink="false">d628b80221451a7498028ae9bfcb1322</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>宁夏自治区 关于2026年度社会保险缴费基数的政策解读</title>
+      <link>https://m12333.cn/qa/srifa.html</link>
+      <description>宁夏自治区 关于2026年度社会保险缴费基数的政策解读 - https://m12333.cn/qa/srifa.html</description>
+      <guid isPermaLink="false">63084c2b481af3c9f5236ba24a7be3a0</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
