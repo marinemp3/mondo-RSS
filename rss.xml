@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 10:06:46 +0900</lastBuildDate>
-    <item>
-      <title>陕西省 什么是医保“起付线”和“封顶线”？</title>
-      <link>https://m12333.cn/qa/sriik.html</link>
-      <description>陕西省 什么是医保“起付线”和“封顶线”？ - https://m12333.cn/qa/sriik.html</description>
-      <guid isPermaLink="false">d5128eda906fd4808ce53f6a6f4408f9</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 10:36:56 +0900</lastBuildDate>
     <item>
       <title>政策解读《南宁市长期护理保险评估人员管理暂行办法》</title>
       <link>https://m12333.cn/qa/sriib.html</link>
@@ -147,6 +140,13 @@
       <link>https://m12333.cn/qa/srikz.html</link>
       <description>安徽省 政策解读《关于规范整合药学、病理、眼科、口腔类价格项目及修订口腔种植等医疗服务价格项目… - https://m12333.cn/qa/srikz.html</description>
       <guid isPermaLink="false">814b1613216049edcad0ba4a522c6939</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>太原市住房公积金信息系统单位网上业务操作手册</title>
+      <link>https://m12333.cn/qa/sriai.html</link>
+      <description>太原市住房公积金信息系统单位网上业务操作手册 - https://m12333.cn/qa/sriai.html</description>
+      <guid isPermaLink="false">964d46d05c4aebeb881cd6146a3e62d6</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
