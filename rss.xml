@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 16:38:42 +0900</lastBuildDate>
-    <item>
-      <title>包头市 政策解读《关于调整全市城乡居民大病保险相关政策的通知》</title>
-      <link>https://m12333.cn/qa/sriyz.html</link>
-      <description>包头市 政策解读《关于调整全市城乡居民大病保险相关政策的通知》 - https://m12333.cn/qa/sriyz.html</description>
-      <guid isPermaLink="false">22d39724813195266111e9838e747f14</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 17:07:16 +0900</lastBuildDate>
     <item>
       <title>包头市 政策解读《关于规范全市灵活就业人员职工医保欠费补缴政策的通知》</title>
       <link>https://m12333.cn/qa/sriyy.html</link>
@@ -133,6 +126,13 @@
       <link>https://m12333.cn/qa/sridm.html</link>
       <description>承德市 灵活就业参保“一件事”服务指南 - https://m12333.cn/qa/sridm.html</description>
       <guid isPermaLink="false">4d3ca951456647f5429dd8fe15e81ba9</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>泰州市 政策解读《关于开展装修自住住房提取住房公积金业务的通知》</title>
+      <link>https://m12333.cn/qa/sridz.html</link>
+      <description>泰州市 政策解读《关于开展装修自住住房提取住房公积金业务的通知》 - https://m12333.cn/qa/sridz.html</description>
+      <guid isPermaLink="false">dbedc05bdbd3d0de0307770ff4983bdc</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
