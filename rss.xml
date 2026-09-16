@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 04:37:07 +0900</lastBuildDate>
-    <item>
-      <title>北京市 如何申领一次性求职补贴？</title>
-      <link>https://m12333.cn/qa/sricp.html</link>
-      <description>北京市 如何申领一次性求职补贴？ - https://m12333.cn/qa/sricp.html</description>
-      <guid isPermaLink="false">f5392588d2f69206562b354d9bac2ff1</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Sep 2026 05:07:57 +0900</lastBuildDate>
     <item>
       <title>政策解读《黑龙江省工伤职工辅助器具配置项目及限额标准》</title>
       <link>https://m12333.cn/qa/sricw.html</link>
@@ -49,6 +42,13 @@
       <link>https://m12333.cn/qa/sridm.html</link>
       <description>承德市 灵活就业参保“一件事”服务指南 - https://m12333.cn/qa/sridm.html</description>
       <guid isPermaLink="false">4d3ca951456647f5429dd8fe15e81ba9</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>天津市社会保险基金管理中心关于优化养老资格认证主动告知服务的提示</title>
+      <link>https://m12333.cn/qa/sridp.html</link>
+      <description>天津市社会保险基金管理中心关于优化养老资格认证主动告知服务的提示 - https://m12333.cn/qa/sridp.html</description>
+      <guid isPermaLink="false">49fb0028a6fa7753b9b03f0d0877fb2a</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -140,6 +140,13 @@
       <link>https://m12333.cn/qa/srife.html</link>
       <description>青海省2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准） - https://m12333.cn/qa/srife.html</description>
       <guid isPermaLink="false">173efed2770e95e1858612e431691664</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>海南省 城乡居民医保能不能报销产检费用？</title>
+      <link>https://m12333.cn/qa/sriff.html</link>
+      <description>海南省 城乡居民医保能不能报销产检费用？ - https://m12333.cn/qa/sriff.html</description>
+      <guid isPermaLink="false">9238219e3871c88effcc871d861e8e58</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
