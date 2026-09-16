@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 12:06:48 +0900</lastBuildDate>
-    <item>
-      <title>新疆自治区 政策解读《自治区劳务品牌培育和管理办法》</title>
-      <link>https://m12333.cn/qa/sriza.html</link>
-      <description>新疆自治区 政策解读《自治区劳务品牌培育和管理办法》 - https://m12333.cn/qa/sriza.html</description>
-      <guid isPermaLink="false">002a70fcf44d5dccf6a5832045a77f82</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>鸡西市发布2027年度城乡居民基本医疗保险缴费方式提醒</title>
-      <link>https://m12333.cn/qa/srizd.html</link>
-      <description>鸡西市发布2027年度城乡居民基本医疗保险缴费方式提醒 - https://m12333.cn/qa/srizd.html</description>
-      <guid isPermaLink="false">3ea14d97a9f33046911267a1109d9fef</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 12:39:36 +0900</lastBuildDate>
     <item>
       <title>大庆市发布2027年度城乡居民医保缴费须知</title>
       <link>https://m12333.cn/qa/srize.html</link>
@@ -140,6 +126,20 @@
       <link>https://m12333.cn/qa/sricp.html</link>
       <description>北京市 如何申领一次性求职补贴？ - https://m12333.cn/qa/sricp.html</description>
       <guid isPermaLink="false">f5392588d2f69206562b354d9bac2ff1</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>政策解读《黑龙江省工伤职工辅助器具配置项目及限额标准》</title>
+      <link>https://m12333.cn/qa/sricw.html</link>
+      <description>政策解读《黑龙江省工伤职工辅助器具配置项目及限额标准》 - https://m12333.cn/qa/sricw.html</description>
+      <guid isPermaLink="false">ba5c4d55442fd197b21d651189d10678</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>宜昌参保人异地就医备案续办遇到提示这样处理</title>
+      <link>https://m12333.cn/qa/sricb.html</link>
+      <description>宜昌参保人异地就医备案续办遇到提示这样处理 - https://m12333.cn/qa/sricb.html</description>
+      <guid isPermaLink="false">16302f3615a5a9b17e472967d86ae845</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
