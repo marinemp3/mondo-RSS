@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 13:39:34 +0900</lastBuildDate>
-    <item>
-      <title>大庆市发布2027年度城乡居民医保缴费须知</title>
-      <link>https://m12333.cn/qa/srize.html</link>
-      <description>大庆市发布2027年度城乡居民医保缴费须知 - https://m12333.cn/qa/srize.html</description>
-      <guid isPermaLink="false">ad6341c52af52ae9c2043e3453bc37cc</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 14:06:22 +0900</lastBuildDate>
     <item>
       <title>2027年黑龙江省城乡居民基本医疗保险开始缴费了！</title>
       <link>https://m12333.cn/qa/sriyu.html</link>
@@ -140,6 +133,13 @@
       <link>https://m12333.cn/qa/sricb.html</link>
       <description>宜昌参保人异地就医备案续办遇到提示这样处理 - https://m12333.cn/qa/sricb.html</description>
       <guid isPermaLink="false">16302f3615a5a9b17e472967d86ae845</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>福建省 政策解读《关于落实失业保险支持企业稳岗扩岗的通知》</title>
+      <link>https://m12333.cn/qa/sricd.html</link>
+      <description>福建省 政策解读《关于落实失业保险支持企业稳岗扩岗的通知》 - https://m12333.cn/qa/sricd.html</description>
+      <guid isPermaLink="false">e012b57d2b9b0f253f3009a9b62c27b4</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
