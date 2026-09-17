@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 16:38:55 +0900</lastBuildDate>
-    <item>
-      <title>湖北省企业薪酬调查信息（2025年）</title>
-      <link>https://m12333.cn/qa/srieb.html</link>
-      <description>湖北省企业薪酬调查信息（2025年） - https://m12333.cn/qa/srieb.html</description>
-      <guid isPermaLink="false">370853eae82a46f2e030f65515887c0a</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Sep 2026 17:07:56 +0900</lastBuildDate>
     <item>
       <title>包头市 医保购药合规提示</title>
       <link>https://m12333.cn/qa/sried.html</link>
@@ -126,6 +119,13 @@
       <link>https://m12333.cn/qa/srrpz.html</link>
       <description>山西省医疗服务项目价格政策解读 - https://m12333.cn/qa/srrpz.html</description>
       <guid isPermaLink="false">b7325a9818cf50701efb084a4732bcd1</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>秦皇岛市大学生毕业或参加工作如何暂停城乡居民医保？</title>
+      <link>https://m12333.cn/qa/srrpy.html</link>
+      <description>秦皇岛市大学生毕业或参加工作如何暂停城乡居民医保？ - https://m12333.cn/qa/srrpy.html</description>
+      <guid isPermaLink="false">01db2a6c76413f626bfbed5b0c07bf9c</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
