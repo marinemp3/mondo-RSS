@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 23:07:39 +0900</lastBuildDate>
-    <item>
-      <title>乐山市 政策解读《关于提取住房公积金用于自住住房装修有关事项的通知》</title>
-      <link>https://m12333.cn/qa/sriee.html</link>
-      <description>乐山市 政策解读《关于提取住房公积金用于自住住房装修有关事项的通知》 - https://m12333.cn/qa/sriee.html</description>
-      <guid isPermaLink="false">13116ae0b0619088251668ee17ada814</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Sep 2026 23:39:11 +0900</lastBuildDate>
     <item>
       <title>长治住房公积金个人住房贷款办理全攻略！从贷前申请到贷后管理一文读懂</title>
       <link>https://m12333.cn/qa/srifw.html</link>
@@ -126,6 +119,13 @@
       <link>https://m12333.cn/qa/srrpb.html</link>
       <description>张掖市住房公积金提取新政热点问题解答 - https://m12333.cn/qa/srrpb.html</description>
       <guid isPermaLink="false">8d6b27bb15627a348e65f0c660fb464a</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>重庆市2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准）</title>
+      <link>https://m12333.cn/qa/srrwm.html</link>
+      <description>重庆市2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准） - https://m12333.cn/qa/srrwm.html</description>
+      <guid isPermaLink="false">90f9bfc5722701181dbe5a2d2f46ccf3</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
