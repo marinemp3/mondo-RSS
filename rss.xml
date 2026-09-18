@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 16:07:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:38:08 +0900</lastBuildDate>
     <item>
       <title>安庆市 就业见习补贴申领经办流程</title>
       <link>https://m12333.cn/qa/srrwd.html</link>
@@ -38,31 +38,10 @@
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>北京市 异地就医想用个人账户支付？得先这样操作！</title>
-      <link>https://m12333.cn/qa/srrps.html</link>
-      <description>北京市 异地就医想用个人账户支付？得先这样操作！ - https://m12333.cn/qa/srrps.html</description>
-      <guid isPermaLink="false">eb776f689eeb796376a47d349abe392b</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>北京市 跨省就医想刷医保个人账户？快来解锁异地就医支付权限！</title>
       <link>https://m12333.cn/qa/srrpw.html</link>
       <description>北京市 跨省就医想刷医保个人账户？快来解锁异地就医支付权限！ - https://m12333.cn/qa/srrpw.html</description>
       <guid isPermaLink="false">44dcf9e257b020bd2f6b43655a63f6f0</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>柳州市 省外异地就医备案人员范围有哪些？如何享受直接结算服务？</title>
-      <link>https://m12333.cn/qa/srrpi.html</link>
-      <description>柳州市 省外异地就医备案人员范围有哪些？如何享受直接结算服务？ - https://m12333.cn/qa/srrpi.html</description>
-      <guid isPermaLink="false">399c16baae6ef2f3f3d41db618fa023b</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>杭州市 重点群体社保补贴，开放个人申领啦！</title>
-      <link>https://m12333.cn/qa/srrpr.html</link>
-      <description>杭州市 重点群体社保补贴，开放个人申领啦！ - https://m12333.cn/qa/srrpr.html</description>
-      <guid isPermaLink="false">227db506102bac2686480ec39dcdcf5b</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -147,6 +126,13 @@
       <link>https://m12333.cn/qa/srrri.html</link>
       <description>海南省 失业保险金申领常见问题解答 - https://m12333.cn/qa/srrri.html</description>
       <guid isPermaLink="false">8cb6ae90cfbbdfdaeb83ab321b164e6f</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>重庆市长期护理保险热点答疑</title>
+      <link>https://m12333.cn/qa/srrrz.html</link>
+      <description>重庆市长期护理保险热点答疑 - https://m12333.cn/qa/srrrz.html</description>
+      <guid isPermaLink="false">fd0046537b872aa9db41810e6d739570</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
