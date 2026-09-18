@@ -8,42 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 21:41:35 +0900</lastBuildDate>
-    <item>
-      <title>重庆市2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准）</title>
-      <link>https://m12333.cn/qa/srrwm.html</link>
-      <description>重庆市2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准） - https://m12333.cn/qa/srrwm.html</description>
-      <guid isPermaLink="false">90f9bfc5722701181dbe5a2d2f46ccf3</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>福建省 福州出台失能等级评估申请指南</title>
-      <link>https://m12333.cn/qa/srriy.html</link>
-      <description>福建省 福州出台失能等级评估申请指南 - https://m12333.cn/qa/srriy.html</description>
-      <guid isPermaLink="false">32726cc6b8fb077a9caf3ab7a013b37e</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>海南大学生城乡居民医疗保险参保缴费指南！</title>
-      <link>https://m12333.cn/qa/srrid.html</link>
-      <description>海南大学生城乡居民医疗保险参保缴费指南！ - https://m12333.cn/qa/srrid.html</description>
-      <guid isPermaLink="false">90630d73260aaa9d398f70369fa7988d</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>烟台市 住房公积金维权手册2026</title>
-      <link>https://m12333.cn/qa/srrif.html</link>
-      <description>烟台市 住房公积金维权手册2026 - https://m12333.cn/qa/srrif.html</description>
-      <guid isPermaLink="false">a25d940d3b24b98e6d068826d3f82b18</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>全国各地加快对接落地立项指南</title>
-      <link>https://m12333.cn/qa/srris.html</link>
-      <description>全国各地加快对接落地立项指南 - https://m12333.cn/qa/srris.html</description>
-      <guid isPermaLink="false">171f419c10a9aeb3a1e816df352e369f</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Sep 2026 22:06:42 +0900</lastBuildDate>
     <item>
       <title>政策解读《黄石市住房公积金中心装修提取业务实施细则》</title>
       <link>https://m12333.cn/qa/srriz.html</link>
@@ -147,6 +112,41 @@
       <link>https://m12333.cn/qa/srrze.html</link>
       <description>防城港市 支付物业费提取住房公积金办事指南 - https://m12333.cn/qa/srrze.html</description>
       <guid isPermaLink="false">9d7d0a5d6ce5a4b49b6f02d4d38af476</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>防城港市 自住住房装修提取住房公积金办事指南</title>
+      <link>https://m12333.cn/qa/srrym.html</link>
+      <description>防城港市 自住住房装修提取住房公积金办事指南 - https://m12333.cn/qa/srrym.html</description>
+      <guid isPermaLink="false">a48589d46d57695ce4c7e261f437df18</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>连云港市 政策解读《关于新增装修自住住房和支付自住住房物业费提取住房公积金的通知》</title>
+      <link>https://m12333.cn/qa/srryw.html</link>
+      <description>连云港市 政策解读《关于新增装修自住住房和支付自住住房物业费提取住房公积金的通知》 - https://m12333.cn/qa/srryw.html</description>
+      <guid isPermaLink="false">7864335c6a9f21a6967a309315d53a6d</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>连云港市 《关于新增装修自住住房和支付自住住房物业费提取住房公积金的通知》的政策简明问答</title>
+      <link>https://m12333.cn/qa/srryi.html</link>
+      <description>连云港市 《关于新增装修自住住房和支付自住住房物业费提取住房公积金的通知》的政策简明问答 - https://m12333.cn/qa/srryi.html</description>
+      <guid isPermaLink="false">fa731b9c8f94eac278f5a118e19fb72d</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>昆明市 政策解读《关于进一步优化调整住房公积金提取使用政策的通知》（2026年）</title>
+      <link>https://m12333.cn/qa/srryr.html</link>
+      <description>昆明市 政策解读《关于进一步优化调整住房公积金提取使用政策的通知》（2026年） - https://m12333.cn/qa/srryr.html</description>
+      <guid isPermaLink="false">48b76e967c39edfb246bbf85337a1ea7</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>镇江市 政策解读《关于支持自住住房装修提取住房公积金的通知》</title>
+      <link>https://m12333.cn/qa/srryb.html</link>
+      <description>镇江市 政策解读《关于支持自住住房装修提取住房公积金的通知》 - https://m12333.cn/qa/srryb.html</description>
+      <guid isPermaLink="false">b579278e7c4b05863b0a15868b677249</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
