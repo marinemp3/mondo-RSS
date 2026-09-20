@@ -8,42 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 20 Sep 2026 15:08:17 +0900</lastBuildDate>
-    <item>
-      <title>2026年鄂州市一次性扩岗补助服务指南</title>
-      <link>https://m12333.cn/qa/srrrd.html</link>
-      <description>2026年鄂州市一次性扩岗补助服务指南 - https://m12333.cn/qa/srrrd.html</description>
-      <guid isPermaLink="false">48e02468d522ef47087a3f963a96044b</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>2026年鄂州市失业保险稳岗返还政策服务指南</title>
-      <link>https://m12333.cn/qa/srrre.html</link>
-      <description>2026年鄂州市失业保险稳岗返还政策服务指南 - https://m12333.cn/qa/srrre.html</description>
-      <guid isPermaLink="false">1bf3bd4ed30ba6769c6720a38bda7d19</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>图解太原市扩大社会保险补贴范围政策</title>
-      <link>https://m12333.cn/qa/srrzm.html</link>
-      <description>图解太原市扩大社会保险补贴范围政策 - https://m12333.cn/qa/srrzm.html</description>
-      <guid isPermaLink="false">d82a8fbf8563a799f8e91543b551edd4</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>亳州市装修自住住房提取住房公积金办事指南</title>
-      <link>https://m12333.cn/qa/srrzy.html</link>
-      <description>亳州市装修自住住房提取住房公积金办事指南 - https://m12333.cn/qa/srrzy.html</description>
-      <guid isPermaLink="false">0f1dc1aa890cddc1e725d482f1fb456d</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>亳州市装修自住住房提取住房公积金政策问答</title>
-      <link>https://m12333.cn/qa/srrzk.html</link>
-      <description>亳州市装修自住住房提取住房公积金政策问答 - https://m12333.cn/qa/srrzk.html</description>
-      <guid isPermaLink="false">ef09e1c37d05da85df8ce671cba7b566</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Sun, 20 Sep 2026 15:41:10 +0900</lastBuildDate>
     <item>
       <title>鄂尔多斯市 内蒙古自治区药学类医疗服务价格项目立项指南政策解读及映射关系表</title>
       <link>https://m12333.cn/qa/srrzc.html</link>
@@ -148,6 +113,41 @@
       <description>无锡市 政策解读《关于调整住房公积金相关使用政策的通知》（2026年） - https://m12333.cn/qa/srrkc.html</description>
       <guid isPermaLink="false">089134af010ffb56211369f584bb87fa</guid>
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>莆田市 政策解读《关于拓宽住房公积金使用范围的通知》</title>
+      <link>https://m12333.cn/qa/srrcu.html</link>
+      <description>莆田市 政策解读《关于拓宽住房公积金使用范围的通知》 - https://m12333.cn/qa/srrcu.html</description>
+      <guid isPermaLink="false">253db00a20e6ea6585c3c6e355182626</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>济南市 关于装修自住住房提取住房公积金业务办理服务指南</title>
+      <link>https://m12333.cn/qa/srrbi.html</link>
+      <description>济南市 关于装修自住住房提取住房公积金业务办理服务指南 - https://m12333.cn/qa/srrbi.html</description>
+      <guid isPermaLink="false">11ea447452a7ee18046327ac75305e75</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>南京市 关于开展自住住房装修和物业费提取住房公积金业务的政策问答</title>
+      <link>https://m12333.cn/qa/srrby.html</link>
+      <description>南京市 关于开展自住住房装修和物业费提取住房公积金业务的政策问答 - https://m12333.cn/qa/srrby.html</description>
+      <guid isPermaLink="false">5e2709bcdb6989979ac5172ed879bfb5</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>图文解读《关于调整淄博市住房公积金提取政策的通知》（2026年）</title>
+      <link>https://m12333.cn/qa/srrcr.html</link>
+      <description>图文解读《关于调整淄博市住房公积金提取政策的通知》（2026年） - https://m12333.cn/qa/srrcr.html</description>
+      <guid isPermaLink="false">60dd4acebe163a787e9102daf9263a62</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>淄博市 装修自住住房提取公积金线上操作指南</title>
+      <link>https://m12333.cn/qa/srrcz.html</link>
+      <description>淄博市 装修自住住房提取公积金线上操作指南 - https://m12333.cn/qa/srrcz.html</description>
+      <guid isPermaLink="false">be151f15c9a37069e2e36cdf53e89971</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
