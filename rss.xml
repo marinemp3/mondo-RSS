@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 21 Sep 2026 18:38:47 +0900</lastBuildDate>
-    <item>
-      <title>政策解读《咸宁市住房公积金提取管理办法》《咸宁市住房公积金个人住房贷款管理办法》《咸宁市灵活就…</title>
-      <link>https://m12333.cn/qa/srzuu.html</link>
-      <description>政策解读《咸宁市住房公积金提取管理办法》《咸宁市住房公积金个人住房贷款管理办法》《咸宁市灵活就… - https://m12333.cn/qa/srzuu.html</description>
-      <guid isPermaLink="false">cf15a22983dac96f8e112e5d2c0a61e4</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>徐州市 政策解读《关于进一步扩大住房公积金使用政策的通知》</title>
-      <link>https://m12333.cn/qa/srzuk.html</link>
-      <description>徐州市 政策解读《关于进一步扩大住房公积金使用政策的通知》 - https://m12333.cn/qa/srzuk.html</description>
-      <guid isPermaLink="false">50e07597930f462dbc2f61feb07ec4cb</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Sep 2026 19:07:18 +0900</lastBuildDate>
     <item>
       <title>韶关市 政策解读《关于调整住房公积金使用政策的通知》（2026年）</title>
       <link>https://m12333.cn/qa/srzms.html</link>
@@ -45,6 +31,13 @@
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>南昌市 2026年国庆节、中秋节“医保不打烊”经办服务温馨指南</title>
+      <link>https://m12333.cn/qa/srzwe.html</link>
+      <description>南昌市 2026年国庆节、中秋节“医保不打烊”经办服务温馨指南 - https://m12333.cn/qa/srzwe.html</description>
+      <guid isPermaLink="false">8e844edbe21014cc8aa993dce9fa432a</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>崇左市住房公积金缴纳物业管理费提取申请操作指南</title>
       <link>https://m12333.cn/qa/srzpm.html</link>
       <description>崇左市住房公积金缴纳物业管理费提取申请操作指南 - https://m12333.cn/qa/srzpm.html</description>
@@ -56,13 +49,6 @@
       <link>https://m12333.cn/qa/srzps.html</link>
       <description>四川省 政策解读《关于进一步规范全省城乡居民基本医疗保险普通门诊统筹待遇保障政策的通知》 - https://m12333.cn/qa/srzps.html</description>
       <guid isPermaLink="false">4367d900cdf1d8fb87cd020bb602807b</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>福建省2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准）</title>
-      <link>https://m12333.cn/qa/srzss.html</link>
-      <description>福建省2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准） - https://m12333.cn/qa/srzss.html</description>
-      <guid isPermaLink="false">33faa90293a3179f9c3212cde118f1f5</guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -126,6 +112,13 @@
       <link>https://m12333.cn/qa/srzwz.html</link>
       <description>漯河市住房公积金管理中心物业费提取线上办理指南 - https://m12333.cn/qa/srzwz.html</description>
       <guid isPermaLink="false">fe9a3324af69cbaf35b7e3dfe9cc6315</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>百色市 关于贯彻落实新修订《住房公积金管理条例》相关提取政策的通告</title>
+      <link>https://m12333.cn/qa/srziw.html</link>
+      <description>百色市 关于贯彻落实新修订《住房公积金管理条例》相关提取政策的通告 - https://m12333.cn/qa/srziw.html</description>
+      <guid isPermaLink="false">7a8792268e429c16b435c47bd65cf71b</guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
