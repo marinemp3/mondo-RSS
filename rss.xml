@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 21 Sep 2026 21:07:57 +0900</lastBuildDate>
-    <item>
-      <title>韶关市 政策解读《关于调整住房公积金使用政策的通知》（2026年）</title>
-      <link>https://m12333.cn/qa/srzms.html</link>
-      <description>韶关市 政策解读《关于调整住房公积金使用政策的通知》（2026年） - https://m12333.cn/qa/srzms.html</description>
-      <guid isPermaLink="false">8470f09956f01c2ffe71ba9b88dd1ac3</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Sep 2026 21:40:21 +0900</lastBuildDate>
     <item>
       <title>大连市 政策解读《关于支持装修和支付自住住房物业费提取住房公积金的通知》</title>
       <link>https://m12333.cn/qa/srzmw.html</link>
@@ -126,6 +119,13 @@
       <link>https://m12333.cn/qa/srziy.html</link>
       <description>广西2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准） - https://m12333.cn/qa/srziy.html</description>
       <guid isPermaLink="false">9d8aa251f399c9d972385d9cc75a5f3f</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>湖南省 政策解读《关于进一步推进社会保险事业高质量发展的意见》</title>
+      <link>https://m12333.cn/qa/srzie.html</link>
+      <description>湖南省 政策解读《关于进一步推进社会保险事业高质量发展的意见》 - https://m12333.cn/qa/srzie.html</description>
+      <guid isPermaLink="false">2f4e9a6511d511402ca54f30fa2baa89</guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
