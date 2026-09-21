@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 21 Sep 2026 18:07:14 +0900</lastBuildDate>
-    <item>
-      <title>陕西省就业政策清单（2026年版）</title>
-      <link>https://m12333.cn/qa/srrfa.html</link>
-      <description>陕西省就业政策清单（2026年版） - https://m12333.cn/qa/srrfa.html</description>
-      <guid isPermaLink="false">8d51bfc9bea533767e90fccc416b9532</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>台州市 政策解读《关于调整住房公积金若干政策的通知》（2026年）</title>
-      <link>https://m12333.cn/qa/srrfc.html</link>
-      <description>台州市 政策解读《关于调整住房公积金若干政策的通知》（2026年） - https://m12333.cn/qa/srrfc.html</description>
-      <guid isPermaLink="false">a4958f45a21dc61e0a9d2a85d86e763c</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Sep 2026 18:38:47 +0900</lastBuildDate>
     <item>
       <title>政策解读《咸宁市住房公积金提取管理办法》《咸宁市住房公积金个人住房贷款管理办法》《咸宁市灵活就…</title>
       <link>https://m12333.cn/qa/srzuu.html</link>
@@ -126,6 +112,20 @@
       <link>https://m12333.cn/qa/srzsf.html</link>
       <description>图文解读《安徽省建立长期护理保险制度实施方案》 - https://m12333.cn/qa/srzsf.html</description>
       <guid isPermaLink="false">e3341f0e719e37d0d6191c43a8015aa9</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>图文解读《潍坊市长期护理保险实施办法》</title>
+      <link>https://m12333.cn/qa/srzwi.html</link>
+      <description>图文解读《潍坊市长期护理保险实施办法》 - https://m12333.cn/qa/srzwi.html</description>
+      <guid isPermaLink="false">a2843bb51cc1166f774aa38e08b9e80c</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>漯河市住房公积金管理中心物业费提取线上办理指南</title>
+      <link>https://m12333.cn/qa/srzwz.html</link>
+      <description>漯河市住房公积金管理中心物业费提取线上办理指南 - https://m12333.cn/qa/srzwz.html</description>
+      <guid isPermaLink="false">fe9a3324af69cbaf35b7e3dfe9cc6315</guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
