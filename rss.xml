@@ -8,42 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 30 Sep 2026 08:51:55 +0900</lastBuildDate>
-    <item>
-      <title>来宾市住房公积金提取所需材料明细表</title>
-      <link>https://m12333.cn/qa/sryds.html</link>
-      <description>来宾市住房公积金提取所需材料明细表 - https://m12333.cn/qa/sryds.html</description>
-      <guid isPermaLink="false">2cecad31225eaf687f44ceaaf2d79a55</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>一人一档规范管理《长期护理保险失能人员档案信息表》规范解读</title>
-      <link>https://m12333.cn/qa/sryap.html</link>
-      <description>一人一档规范管理《长期护理保险失能人员档案信息表》规范解读 - https://m12333.cn/qa/sryap.html</description>
-      <guid isPermaLink="false">9a27ccce0b31140f51221aa08e2ab522</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>柳州个人社保补贴最简便的申领流程</title>
-      <link>https://m12333.cn/qa/sryai.html</link>
-      <description>柳州个人社保补贴最简便的申领流程 - https://m12333.cn/qa/sryai.html</description>
-      <guid isPermaLink="false">d75a8490878033f6ca19331cdee862ac</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>哈尔滨医保：请及时为已故参保人员办理医保注销业务</title>
-      <link>https://m12333.cn/qa/sryar.html</link>
-      <description>哈尔滨医保：请及时为已故参保人员办理医保注销业务 - https://m12333.cn/qa/sryar.html</description>
-      <guid isPermaLink="false">1c8884827f1fc414f8f8cc16941048e1</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>南通市 装修自住住房提取公积金业务办理指南</title>
-      <link>https://m12333.cn/qa/sryaz.html</link>
-      <description>南通市 装修自住住房提取公积金业务办理指南 - https://m12333.cn/qa/sryaz.html</description>
-      <guid isPermaLink="false">993a63fdf22707d3b40a77be5d93abf2</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Sep 2026 12:29:39 +0900</lastBuildDate>
     <item>
       <title>梅州市 政策解读《关于调整本市住房公积金相关政策的通知》（2026年）</title>
       <link>https://m12333.cn/qa/sryaa.html</link>
@@ -148,6 +113,41 @@
       <description>政策解读《临沧市长期护理保险制度实施细则（试行）》 - https://m12333.cn/qa/srydf.html</description>
       <guid isPermaLink="false">75f148d8cc4eaa372277af1e87aeaee8</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>武威市住房公积金管理中心政策咨询电话</title>
+      <link>https://m12333.cn/qa/sryec.html</link>
+      <description>武威市住房公积金管理中心政策咨询电话 - https://m12333.cn/qa/sryec.html</description>
+      <guid isPermaLink="false">a77c0aaf5d8a929b19ffb842e439f6e6</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>深圳市 已办理灵活就业参保登记，但参保信息有误，如何变更？</title>
+      <link>https://m12333.cn/qa/sryee.html</link>
+      <description>深圳市 已办理灵活就业参保登记，但参保信息有误，如何变更？ - https://m12333.cn/qa/sryee.html</description>
+      <guid isPermaLink="false">718da653d6fe7cc7dd9e37f5a3380f6f</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>深圳市 如何查询和确定我的法定退休年龄？</title>
+      <link>https://m12333.cn/qa/sryef.html</link>
+      <description>深圳市 如何查询和确定我的法定退休年龄？ - https://m12333.cn/qa/sryef.html</description>
+      <guid isPermaLink="false">2853f50aa3884c65011fa4464f587d8c</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>四川医保APP上线“为近亲属备案”服务</title>
+      <link>https://m12333.cn/qa/sryfz.html</link>
+      <description>四川医保APP上线“为近亲属备案”服务 - https://m12333.cn/qa/sryfz.html</description>
+      <guid isPermaLink="false">ab0976039f2fccaefc000b3c5edb9612</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>蚌埠市 高校毕业生如何查询自己的档案？</title>
+      <link>https://m12333.cn/qa/sryfk.html</link>
+      <description>蚌埠市 高校毕业生如何查询自己的档案？ - https://m12333.cn/qa/sryfk.html</description>
+      <guid isPermaLink="false">715314c6c3bf4f70ec59803d0b32f2e3</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
