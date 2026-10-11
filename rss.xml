@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 11 Oct 2026 22:13:48 +0900</lastBuildDate>
-    <item>
-      <title>景德镇市建立长期护理保险制度实施方案</title>
-      <link>https://m12333.cn/qa/sraab.html</link>
-      <description>景德镇市建立长期护理保险制度实施方案 - https://m12333.cn/qa/sraab.html</description>
-      <guid isPermaLink="false">10ee1fbdd30897348142b27ee0995f46</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>宜昌市 职工住房公积金维权投诉办事指南</title>
-      <link>https://m12333.cn/qa/srabw.html</link>
-      <description>宜昌市 职工住房公积金维权投诉办事指南 - https://m12333.cn/qa/srabw.html</description>
-      <guid isPermaLink="false">0593ffb64e68e3e766ac1935c6aeb4b6</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>贵州省 政策解读《关于做好2027年城乡居民基本医疗保险参保征缴工作的通知》</title>
-      <link>https://m12333.cn/qa/srabb.html</link>
-      <description>贵州省 政策解读《关于做好2027年城乡居民基本医疗保险参保征缴工作的通知》 - https://m12333.cn/qa/srabb.html</description>
-      <guid isPermaLink="false">867f80d43407f37de8a40464ab754219</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Oct 2026 03:14:29 +0900</lastBuildDate>
     <item>
       <title>政策解读《厦门市长期护理保险实施细则》</title>
       <link>https://m12333.cn/qa/srabd.html</link>
@@ -148,6 +127,27 @@
       <description>内蒙古 政策解读《关于进一步规范职工基本医疗保险个人账户使用管理的通知》 - https://m12333.cn/qa/srafp.html</description>
       <guid isPermaLink="false">3ee9c5ed5c65117027d72b4fd9900b14</guid>
       <pubDate>Sat, 10 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>福建省2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准）</title>
+      <link>https://m12333.cn/qa/srzss.html</link>
+      <description>福建省2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准） - https://m12333.cn/qa/srzss.html</description>
+      <guid isPermaLink="false">33faa90293a3179f9c3212cde118f1f5</guid>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>江西省2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准）</title>
+      <link>https://m12333.cn/qa/srafk.html</link>
+      <description>江西省2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准） - https://m12333.cn/qa/srafk.html</description>
+      <guid isPermaLink="false">311e33984fa34361ab525e23fdc1618e</guid>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>湖北省2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准）</title>
+      <link>https://m12333.cn/qa/srafb.html</link>
+      <description>湖北省2026年社保基数（全口径社会平均工资、灵活就业社保缴费档次标准） - https://m12333.cn/qa/srafb.html</description>
+      <guid isPermaLink="false">ca064a09267b311227be8329057fc2d5</guid>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
