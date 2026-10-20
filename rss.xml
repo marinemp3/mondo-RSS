@@ -8,70 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Oct 2026 17:16:25 +0900</lastBuildDate>
-    <item>
-      <title>武汉市 技能提升补贴如何申领？指南来了</title>
-      <link>https://m12333.cn/qa/srdmz.html</link>
-      <description>武汉市 技能提升补贴如何申领？指南来了 - https://m12333.cn/qa/srdmz.html</description>
-      <guid isPermaLink="false">90d6df3a84a2dd0deb00f861d669116a</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>惠州市 微信公众号线上办理物业费提取、装修提取操作指引</title>
-      <link>https://m12333.cn/qa/srdmy.html</link>
-      <description>惠州市 微信公众号线上办理物业费提取、装修提取操作指引 - https://m12333.cn/qa/srdmy.html</description>
-      <guid isPermaLink="false">8ff50f71d63a9b492de59448e60c2bb7</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>惠州市 支付物业费可提取公积金啦！这份办理指南请收好</title>
-      <link>https://m12333.cn/qa/srdmk.html</link>
-      <description>惠州市 支付物业费可提取公积金啦！这份办理指南请收好 - https://m12333.cn/qa/srdmk.html</description>
-      <guid isPermaLink="false">fea9d932924bbab96af42e2e8f3a6c5a</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>巴音郭楞 2027年度城乡居民保险缴费正在进行中</title>
-      <link>https://m12333.cn/qa/srdma.html</link>
-      <description>巴音郭楞 2027年度城乡居民保险缴费正在进行中 - https://m12333.cn/qa/srdma.html</description>
-      <guid isPermaLink="false">dc7bdc6238c1004eed2f6bedbe0e586f</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>邢台市2027年度城乡居民基本医疗保险开始缴费啦</title>
-      <link>https://m12333.cn/qa/srdmb.html</link>
-      <description>邢台市2027年度城乡居民基本医疗保险开始缴费啦 - https://m12333.cn/qa/srdmb.html</description>
-      <guid isPermaLink="false">9377634b73c5c50a7f1b46f645d23e96</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>2026年广西灵活就业人员社保缴费基数发布了！</title>
-      <link>https://m12333.cn/qa/srdmc.html</link>
-      <description>2026年广西灵活就业人员社保缴费基数发布了！ - https://m12333.cn/qa/srdmc.html</description>
-      <guid isPermaLink="false">8656cb38accd5fe2ce54ea8b888500bd</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>廊坊市住房公积金：租房提取业务办理指南</title>
-      <link>https://m12333.cn/qa/srdmd.html</link>
-      <description>廊坊市住房公积金：租房提取业务办理指南 - https://m12333.cn/qa/srdmd.html</description>
-      <guid isPermaLink="false">b543ceae5092e77af5e48610ab64a797</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>江西省2027年城乡居民基本医疗保险开始缴费啦</title>
-      <link>https://m12333.cn/qa/srdme.html</link>
-      <description>江西省2027年城乡居民基本医疗保险开始缴费啦 - https://m12333.cn/qa/srdme.html</description>
-      <guid isPermaLink="false">6c86cccf7d483ae749a6211dfb964e5d</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>大庆市关于鼓励动员职工家人朋友参加城乡居民医保的倡议</title>
-      <link>https://m12333.cn/qa/srdmf.html</link>
-      <description>大庆市关于鼓励动员职工家人朋友参加城乡居民医保的倡议 - https://m12333.cn/qa/srdmf.html</description>
-      <guid isPermaLink="false">58c0bff64381b8086c617bd68151bd47</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Oct 2026 22:44:19 +0900</lastBuildDate>
     <item>
       <title>芜湖市2027年度城乡居民参保缴费开始啦！</title>
       <link>https://m12333.cn/qa/srdpu.html</link>
@@ -147,6 +84,69 @@
       <link>https://m12333.cn/qa/srdpe.html</link>
       <description>连云港市 什么是长护险？我市长护险的参保范围是什么？如何申请... - https://m12333.cn/qa/srdpe.html</description>
       <guid isPermaLink="false">f64acf84222e40d639ce9404ed705f7a</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>湖南省 湘医保个账代缴2027年居民医保费指南</title>
+      <link>https://m12333.cn/qa/srdsy.html</link>
+      <description>湖南省 湘医保个账代缴2027年居民医保费指南 - https://m12333.cn/qa/srdsy.html</description>
+      <guid isPermaLink="false">9e4a07c04b9c410ad0d60bb6e3673b3c</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>庆阳市 政策解读《关于将省内异地就医住院医疗费用纳入DRG付费管理工作的通知》</title>
+      <link>https://m12333.cn/qa/srdwu.html</link>
+      <description>庆阳市 政策解读《关于将省内异地就医住院医疗费用纳入DRG付费管理工作的通知》 - https://m12333.cn/qa/srdwu.html</description>
+      <guid isPermaLink="false">ff3b152c3f13de125115561b6f4c1990</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>山南市 规范使用门诊统筹基金温馨提示</title>
+      <link>https://m12333.cn/qa/srdww.html</link>
+      <description>山南市 规范使用门诊统筹基金温馨提示 - https://m12333.cn/qa/srdww.html</description>
+      <guid isPermaLink="false">ddc9e21644899ee3c66a5164913fa62a</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>汕尾市 政策解读《关于支持自住住房装修费和物业费提取住房公积金的通知》</title>
+      <link>https://m12333.cn/qa/srdwi.html</link>
+      <description>汕尾市 政策解读《关于支持自住住房装修费和物业费提取住房公积金的通知》 - https://m12333.cn/qa/srdwi.html</description>
+      <guid isPermaLink="false">26e5b41d79b40034d7a2b893780d7ad8</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>鸡西市 2027年度城乡居民基本医疗保险参保缴费热点问题答疑（一）</title>
+      <link>https://m12333.cn/qa/srdwr.html</link>
+      <description>鸡西市 2027年度城乡居民基本医疗保险参保缴费热点问题答疑（一） - https://m12333.cn/qa/srdwr.html</description>
+      <guid isPermaLink="false">7eebaac96f8f2bc0b719466d0d1a58b2</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>北京市 公积金贷款业务指南（贷款申请条件与住房套数认定全梳理）</title>
+      <link>https://m12333.cn/qa/srdwz.html</link>
+      <description>北京市 公积金贷款业务指南（贷款申请条件与住房套数认定全梳理） - https://m12333.cn/qa/srdwz.html</description>
+      <guid isPermaLink="false">e6776fdf2173ab396e258e6d935d1bf6</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>白城市 2027年度城乡居民医保开始缴费啦</title>
+      <link>https://m12333.cn/qa/srdwy.html</link>
+      <description>白城市 2027年度城乡居民医保开始缴费啦 - https://m12333.cn/qa/srdwy.html</description>
+      <guid isPermaLink="false">ecdbbbf851be14c01db7f60b4f32d2a2</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>图文解读《中山市医疗保障办法》</title>
+      <link>https://m12333.cn/qa/srdwa.html</link>
+      <description>图文解读《中山市医疗保障办法》 - https://m12333.cn/qa/srdwa.html</description>
+      <guid isPermaLink="false">34ec188d9985debd638597598609f2cf</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>2027年度广西城乡居民医保参保缴费于10月15日启动！</title>
+      <link>https://m12333.cn/qa/srdwb.html</link>
+      <description>2027年度广西城乡居民医保参保缴费于10月15日启动！ - https://m12333.cn/qa/srdwb.html</description>
+      <guid isPermaLink="false">ed799e87c25a344a44f1a8148683237e</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
