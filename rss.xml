@@ -8,35 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Oct 2026 11:55:14 +0900</lastBuildDate>
-    <item>
-      <title>绍兴居民医保开始缴费</title>
-      <link>https://m12333.cn/qa/srdcr.html</link>
-      <description>绍兴居民医保开始缴费 - https://m12333.cn/qa/srdcr.html</description>
-      <guid isPermaLink="false">51f6b107f338350497df25eff992334a</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>云南省 参保人使用跨省共济额度缴纳居民医保费操作手册</title>
-      <link>https://m12333.cn/qa/srdcz.html</link>
-      <description>云南省 参保人使用跨省共济额度缴纳居民医保费操作手册 - https://m12333.cn/qa/srdcz.html</description>
-      <guid isPermaLink="false">e45759c6e4449ec6f6a9016097d95364</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>天津市 图文解读《关于自住住房物业费装修费提取住房公积金有关政策的通知》</title>
-      <link>https://m12333.cn/qa/srdcy.html</link>
-      <description>天津市 图文解读《关于自住住房物业费装修费提取住房公积金有关政策的通知》 - https://m12333.cn/qa/srdcy.html</description>
-      <guid isPermaLink="false">32fa265204ac49fdd7f15b31a3d95037</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>大庆市 住房公积金缴存人离职后，如何提取公积金账户余额？</title>
-      <link>https://m12333.cn/qa/srdca.html</link>
-      <description>大庆市 住房公积金缴存人离职后，如何提取公积金账户余额？ - https://m12333.cn/qa/srdca.html</description>
-      <guid isPermaLink="false">3f06da08f835cb1742bd7a7a78415295</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Oct 2026 17:10:39 +0900</lastBuildDate>
     <item>
       <title>甘孜自治州 2026年四川省失业保险稳岗返还申领指南</title>
       <link>https://m12333.cn/qa/srdcb.html</link>
@@ -147,6 +119,34 @@
       <link>https://m12333.cn/qa/srdfw.html</link>
       <description>无锡市 生育相关热点问题解答 - https://m12333.cn/qa/srdfw.html</description>
       <guid isPermaLink="false">eb754746730bf8df16f3720e11e1f5ed</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>酒泉市2027年度城乡居民基本医疗保险参保缴费指南</title>
+      <link>https://m12333.cn/qa/srdfr.html</link>
+      <description>酒泉市2027年度城乡居民基本医疗保险参保缴费指南 - https://m12333.cn/qa/srdfr.html</description>
+      <guid isPermaLink="false">ea178273ed98501e892eabd0ad8130ec</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>曲靖市 如何办理装修提取住房公积金</title>
+      <link>https://m12333.cn/qa/srdfy.html</link>
+      <description>曲靖市 如何办理装修提取住房公积金 - https://m12333.cn/qa/srdfy.html</description>
+      <guid isPermaLink="false">313540918200af6b41a02ca032d59c34</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>政策解读《金昌市城乡居民基本养老保险实施办法》</title>
+      <link>https://m12333.cn/qa/srdfa.html</link>
+      <description>政策解读《金昌市城乡居民基本养老保险实施办法》 - https://m12333.cn/qa/srdfa.html</description>
+      <guid isPermaLink="false">4c085b7df1b7b745f61a7abe5284a0a4</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>贵港市 偿还住房贷款提取公积金常见问题</title>
+      <link>https://m12333.cn/qa/srdfb.html</link>
+      <description>贵港市 偿还住房贷款提取公积金常见问题 - https://m12333.cn/qa/srdfb.html</description>
+      <guid isPermaLink="false">9c350af67719dc81694e48a863effd3e</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
