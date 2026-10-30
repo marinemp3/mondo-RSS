@@ -8,68 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Oct 2026 18:25:36 +0900</lastBuildDate>
-    <item>
-      <title>惠州市社会保险费征缴费率费基执行标准（自2026年1月1日起）</title>
-      <link>https://m12333.cn/qa/srfcb.html</link>
-      <description>惠州市社会保险费征缴费率费基执行标准（自2026年1月1日起） - https://m12333.cn/qa/srfcb.html</description>
-      <guid isPermaLink="false">5d30c6f3946ffc0c9853dc5b53165572</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>归集护理费用 提交结算申请 《定点长护服务机构护理费用结算申报表》规范解读</title>
-      <link>https://m12333.cn/qa/srfcc.html</link>
-      <description>归集护理费用 提交结算申请 《定点长护服务机构护理费用结算申报表》规范解读 - https://m12333.cn/qa/srfcc.html</description>
-      <guid isPermaLink="false">2754f62e6b0d4bedb2093740a0b42e14</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>湖南省 政策解读《关于贯彻落实国家〈关于医保支持基层医疗卫生服务发展的指导意见〉的通知》</title>
-      <link>https://m12333.cn/qa/srfds.html</link>
-      <description>湖南省 政策解读《关于贯彻落实国家〈关于医保支持基层医疗卫生服务发展的指导意见〉的通知》 - https://m12333.cn/qa/srfds.html</description>
-      <guid isPermaLink="false">7a2152e8208fbd88fdf99c0d94112bd8</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>佛山市 职工退休后，一次性提取住房公积金办理流程</title>
-      <link>https://m12333.cn/qa/srfdw.html</link>
-      <description>佛山市 职工退休后，一次性提取住房公积金办理流程 - https://m12333.cn/qa/srfdw.html</description>
-      <guid isPermaLink="false">2da3373453321cecd29ada408e7eae93</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>河源市 政策解读《关于公布2027年最低生活保障边缘家庭成员支出型医疗救助对象医疗救助起付标准…</title>
-      <link>https://m12333.cn/qa/srfdi.html</link>
-      <description>河源市 政策解读《关于公布2027年最低生活保障边缘家庭成员支出型医疗救助对象医疗救助起付标准… - https://m12333.cn/qa/srfdi.html</description>
-      <guid isPermaLink="false">1ee321f84299fa56d65bc60462ea4576</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>驻马店市 住房公积金个人账户信息如何变更</title>
-      <link>https://m12333.cn/qa/srfdr.html</link>
-      <description>驻马店市 住房公积金个人账户信息如何变更 - https://m12333.cn/qa/srfdr.html</description>
-      <guid isPermaLink="false">51dcab7ac24a2e1fe79172c541c24a28</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>医保钱包2.0全国上线，个人账户资金如何跨省供亲属使用？</title>
-      <link>https://m12333.cn/qa/srfdz.html</link>
-      <description>医保钱包2.0全国上线，个人账户资金如何跨省供亲属使用？ - https://m12333.cn/qa/srfdz.html</description>
-      <guid isPermaLink="false">73ba38c9b4d7edda59bfcab5288faa7e</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>深圳市 企业职工离职后，如何办理社保停保？</title>
-      <link>https://m12333.cn/qa/srfep.html</link>
-      <description>深圳市 企业职工离职后，如何办理社保停保？ - https://m12333.cn/qa/srfep.html</description>
-      <guid isPermaLink="false">e352c3a55ce7e911bc17c9683f57bf82</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Sat, 31 Oct 2026 01:07:43 +0900</lastBuildDate>
     <item>
       <title>河北医保钱包缴费和使用指南</title>
       <link>https://m12333.cn/qa/srfei.html</link>
       <description>河北医保钱包缴费和使用指南 - https://m12333.cn/qa/srfei.html</description>
       <guid isPermaLink="false">3ef4db742666928e2c8e02be6eb4daa0</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>梧州市 一图读懂长期护理保险政策</title>
+      <link>https://m12333.cn/qa/szuui.html</link>
+      <description>梧州市 一图读懂长期护理保险政策 - https://m12333.cn/qa/szuui.html</description>
+      <guid isPermaLink="false">576294e7984e3eada52c0b8f58327504</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
@@ -147,6 +98,55 @@
       <link>https://m12333.cn/qa/srfef.html</link>
       <description>朝阳市 2027年城乡居民医疗保险缴费指南 - https://m12333.cn/qa/srfef.html</description>
       <guid isPermaLink="false">9ad7e5b8d7ce733924079569a2f28170</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>政策解读《河源市实施装修自住住房提取住房公积金政策的通知》</title>
+      <link>https://m12333.cn/qa/srffs.html</link>
+      <description>政策解读《河源市实施装修自住住房提取住房公积金政策的通知》 - https://m12333.cn/qa/srffs.html</description>
+      <guid isPermaLink="false">efeb7a43d88c8f2161a6f1dacc7a7706</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>河源市装修自住住房提取住房公积金业务常见问题解答</title>
+      <link>https://m12333.cn/qa/srffw.html</link>
+      <description>河源市装修自住住房提取住房公积金业务常见问题解答 - https://m12333.cn/qa/srffw.html</description>
+      <guid isPermaLink="false">3060435510ef02289d2335910dfa9baa</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>毕节市 装修自住住房提取住房公积金“掌上办”攻略</title>
+      <link>https://m12333.cn/qa/srffa.html</link>
+      <description>毕节市 装修自住住房提取住房公积金“掌上办”攻略 - https://m12333.cn/qa/srffa.html</description>
+      <guid isPermaLink="false">02ed7b800a53cc1fa701fab916d3e40c</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>驻马店市 2026年3-6月市直创业培训拟补贴人员公示</title>
+      <link>https://m12333.cn/qa/srfff.html</link>
+      <description>驻马店市 2026年3-6月市直创业培训拟补贴人员公示 - https://m12333.cn/qa/srfff.html</description>
+      <guid isPermaLink="false">9812f5411dc1b05ce305fb294ffc6619</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>政策解读《关于印发〈福建省医保药品单列门诊统筹支付管理办法（试行）〉的通知》</title>
+      <link>https://m12333.cn/qa/szuup.html</link>
+      <description>政策解读《关于印发〈福建省医保药品单列门诊统筹支付管理办法（试行）〉的通知》 - https://m12333.cn/qa/szuup.html</description>
+      <guid isPermaLink="false">e44bf91691c3a81d45fd45b32761e1de</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>广西自治区 致全区城乡居民的社保费缴费安全提示</title>
+      <link>https://m12333.cn/qa/szuur.html</link>
+      <description>广西自治区 致全区城乡居民的社保费缴费安全提示 - https://m12333.cn/qa/szuur.html</description>
+      <guid isPermaLink="false">670087ea324e9937c378690ca3633949</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>关于东莞市住房公积金新增自住住房装修和物业费提取业务的政策问答</title>
+      <link>https://m12333.cn/qa/szuua.html</link>
+      <description>关于东莞市住房公积金新增自住住房装修和物业费提取业务的政策问答 - https://m12333.cn/qa/szuua.html</description>
+      <guid isPermaLink="false">510cb7951b36f0e1c5fcec09d1641908</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
