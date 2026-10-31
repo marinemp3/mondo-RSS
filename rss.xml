@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 31 Oct 2026 15:03:57 +0900</lastBuildDate>
-    <item>
-      <title>河北医保钱包缴费和使用指南</title>
-      <link>https://m12333.cn/qa/srfei.html</link>
-      <description>河北医保钱包缴费和使用指南 - https://m12333.cn/qa/srfei.html</description>
-      <guid isPermaLink="false">3ef4db742666928e2c8e02be6eb4daa0</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>梧州市 一图读懂长期护理保险政策</title>
-      <link>https://m12333.cn/qa/szuui.html</link>
-      <description>梧州市 一图读懂长期护理保险政策 - https://m12333.cn/qa/szuui.html</description>
-      <guid isPermaLink="false">576294e7984e3eada52c0b8f58327504</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Sat, 31 Oct 2026 21:54:31 +0900</lastBuildDate>
     <item>
       <title>黄石市 部分异地长期备案10月31日到期，速于11月1日起续办！</title>
       <link>https://m12333.cn/qa/srfci.html</link>
@@ -148,6 +134,20 @@
       <description>关于东莞市住房公积金新增自住住房装修和物业费提取业务的政策问答 - https://m12333.cn/qa/szuua.html</description>
       <guid isPermaLink="false">510cb7951b36f0e1c5fcec09d1641908</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>退休养老金计算器小程序（一键测算你的退休养老金）</title>
+      <link>https://m12333.cn/qa/szuuc.html</link>
+      <description>退休养老金计算器小程序（一键测算你的退休养老金） - https://m12333.cn/qa/szuuc.html</description>
+      <guid isPermaLink="false">ceb78c7398aad2f831a0ebccb4629ef0</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>通用社保计算器（通保计算器）养老金测算说明</title>
+      <link>https://m12333.cn/qa/szuud.html</link>
+      <description>通用社保计算器（通保计算器）养老金测算说明 - https://m12333.cn/qa/szuud.html</description>
+      <guid isPermaLink="false">4502d76e4ccb8599e5ffdece5cb879e1</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
