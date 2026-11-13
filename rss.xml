@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator (Selenium)</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:17:31 +0900</lastBuildDate>
-    <item>
-      <title>喀什地区 《外籍人士在喀工作生活指南》电子书正式上线</title>
-      <link>https://m12333.cn/qa/szpds.html</link>
-      <description>喀什地区 《外籍人士在喀工作生活指南》电子书正式上线 - https://m12333.cn/qa/szpds.html</description>
-      <guid isPermaLink="false">06eb75915dff44f694ae676922913231</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>新修订《住房公积金管理条例》及上饶配套政策解读</title>
-      <link>https://m12333.cn/qa/szpdi.html</link>
-      <description>新修订《住房公积金管理条例》及上饶配套政策解读 - https://m12333.cn/qa/szpdi.html</description>
-      <guid isPermaLink="false">fc6a95078ba9e20b90549d2fa34d6221</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Nov 2026 11:00:03 +0900</lastBuildDate>
     <item>
       <title>崇左市住房公积金管理中心装修提取热点问题解答</title>
       <link>https://m12333.cn/qa/szpdk.html</link>
@@ -147,6 +133,20 @@
       <link>https://m12333.cn/qa/szsmc.html</link>
       <description>山东省 灵活就业职工医保怎么办理？ - https://m12333.cn/qa/szsmc.html</description>
       <guid isPermaLink="false">9ef46eb036b9cf84d5029c62850cda38</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>丽江市政务服务管理局联系方式</title>
+      <link>https://m12333.cn/qa/szsmf.html</link>
+      <description>丽江市政务服务管理局联系方式 - https://m12333.cn/qa/szsmf.html</description>
+      <guid isPermaLink="false">b403507c0f1bf02ce9b3064e9ea9e40d</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>晋城市 城乡居民医保过期要交1174元~</title>
+      <link>https://m12333.cn/qa/szspp.html</link>
+      <description>晋城市 城乡居民医保过期要交1174元~ - https://m12333.cn/qa/szspp.html</description>
+      <guid isPermaLink="false">b80cab1b110328499bf5c952365a840a</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
